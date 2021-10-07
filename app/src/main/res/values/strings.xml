@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTS_41722</string>
+
+    <string name= "main_label">Soundboard</string>
+
+    <string-array name="soundNames">
+        <item>AYAYA</item>
+        <item>MMMMonsterkill</item>
+        <item>( ͡° ͜ʖ ͡°)</item>
+        <item>XQC6consoles</item>
+        <item>~ YOU DIED ~</item>
+    </string-array>
+</resources>
